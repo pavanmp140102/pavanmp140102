@@ -3,7 +3,7 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/90532a32-b999-421c-ab17-0be8dd9b2134.svg)](https://wakatime.com/@90532a32-b999-421c-ab17-0be8dd9b2134)
+<a href="https://wakatime.com/@90532a32-b999-421c-ab17-0be8dd9b2134"><img src="https://wakatime.com/badge/user/90532a32-b999-421c-ab17-0be8dd9b2134.svg" alt="Total time coded since Jun 22 2023" /></a>
 
 <!-- Intro  -->
 <h3 align="center">
