@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
- <a href="https://pavanmp140102.github.io/Me/.com" target="blank">
+ <a href="https://pavanmp140102.github.io/Me/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="pavanmp140102" />
  </a>
  <a href="https://linkedin.com/in/pavan-patil-b07b69209" target="_blank">
