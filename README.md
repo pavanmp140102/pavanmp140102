@@ -3,11 +3,12 @@
   <a href="https://wakatime.com/@1de12938-7857-4372-b68c-63f10fbec87e" target="_blank">
     <img align="left" src="https://wakatime.com/badge/user/1de12938-7857-4372-b68c-63f10fbec87e.svg?style=for-the-badge" alt="WakaTime – total time coded" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=pavanmp140102" target="_blank">
-    <img align="right" src="https://komarev.com/ghpvc/?username=pavanmp140102&label=Visitors&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile visitors" />
+  <a href="https://github-counter-delta.vercel.app/api/counter?label=Visitors&color=0e75b6&abbreviated=true" target="_blank">
+    <img align="right" src="https://github-counter-delta.vercel.app/api/counter?label=Visitors&color=0e75b6&abbreviated=true" alt="Profile visitors" />
   </a>
 </p>
 <br clear="both" />
+
 
 <!-- Banner -->
 <p align="center">
