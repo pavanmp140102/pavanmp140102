@@ -1,19 +1,13 @@
 <!-- Badges (Visitors + WakaTime) -->
-<!-- Badges Row -->
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://wakatime.com/@1de12938-7857-4372-b68c-63f10fbec87e" target="_blank">
-        <img src="https://wakatime.com/badge/user/1de12938-7857-4372-b68c-63f10fbec87e.svg?style=for-the-badge" alt="Total time coded since Dec 12 2023" />
-      </a>
-    </td>
-    <td align="right">
-      <a href="https://komarev.com/ghpvc/?username=pavanmp140102" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=pavanmp140102&label=Visitors&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile visitor" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://wakatime.com/@1de12938-7857-4372-b68c-63f10fbec87e" target="_blank">
+    <img align="left" src="https://wakatime.com/badge/user/1de12938-7857-4372-b68c-63f10fbec87e.svg?style=for-the-badge" alt="WakaTime – total time coded" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=pavanmp140102" target="_blank">
+    <img align="right" src="https://komarev.com/ghpvc/?username=pavanmp140102&label=Visitors&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile visitors" />
+  </a>
+</p>
+<br clear="both" />
 
 <!-- Banner -->
 <p align="center">
