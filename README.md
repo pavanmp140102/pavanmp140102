@@ -1,9 +1,25 @@
-<a href="https://komarev.com/ghpvc/?username=pavanmp140102">
-  <img align="right" src="https://komarev.com/ghpvc/?username=pavanmp140102&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<!-- Badges (Visitors + WakaTime) -->
+<!-- Badges Row -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://wakatime.com/@1de12938-7857-4372-b68c-63f10fbec87e" target="_blank">
+        <img src="https://wakatime.com/badge/user/1de12938-7857-4372-b68c-63f10fbec87e.svg?style=for-the-badge" alt="Total time coded since Dec 12 2023" />
+      </a>
+    </td>
+    <td align="right">
+      <a href="https://komarev.com/ghpvc/?username=pavanmp140102" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=pavanmp140102&label=Visitors&color=0e75b6&style=for-the-badge&abbreviated=true" alt="Profile visitor" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<!-- Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Robotics | ADAS | Autonomous Systems Banner" width="100%" />
+</p>
 
-[![wakatime](https://wakatime.com/badge/user/1de12938-7857-4372-b68c-63f10fbec87e.svg)](https://wakatime.com/@1de12938-7857-4372-b68c-63f10fbec87e)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -17,9 +33,9 @@
   <samp>
     <br>
     「<b> 
-      <img src="logos/robot.png" height="20" /> Robotics | 
-      <img src="logos/adas.png" height="20" /> Autonomous Systems | 
-      <img src="logos/autonomous.png" height="20" /> ADAS Enthusiast  」
+      <img src="assets/robot.png" height="20" /> Robotics | 
+      <img src="assets/adas.png" height="20" /> Autonomous Systems | 
+      <img src="assets/autonomous.png" height="20" /> ADAS Enthusiast  」
      </b>
     <br>
   </samp>
@@ -37,9 +53,7 @@
 <a href="https://medium.com/@pavanmp1402" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&labelColor=black&logo=medium&logoColor=white" alt="Medium Profile" />
 </a>
- <!-- <a href="https://instagram.com/pavanmp140102.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="pavanmp140102" />
- </a>  -->
+
  
 </p>
 <br />
@@ -77,32 +91,32 @@
 ---
 
 ### 🤖 Robotics & Autonomous Systems
-![ROS2](https://img.shields.io/badge/ROS2-F9A825?style=for-the-badge&labelColor=black&logo=ros&logoColor=white)
-![Control Systems](https://img.shields.io/badge/Control_Systems-PID%20|%20MPC%20|%20Lateral%20|%20Longitudinal%20-blue?style=for-the-badge&labelColor=black)
-![Path Planning](https://img.shields.io/badge/Path%20Planning-SLAM%20|%20Localization%20|%20Navigation-yellow?style=for-the-badge&labelColor=black)
-![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-IMU%20|%20LiDAR%20|%20GPS%20RTK-orange?style=for-the-badge&labelColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Camera%20Calibration-red?style=for-the-badge&labelColor=black)
-![ADAS](https://img.shields.io/badge/ADAS-BSD%20|%20RCW-green?style=for-the-badge&labelColor=black)
+![ROS2](https://img.shields.io/badge/ROS2-F9A825?style=for-the-badge&labelColor=black&logo=ros&logoColor=white) &nbsp;
+![Control Systems](https://img.shields.io/badge/Control_Systems-PID%20|%20MPC%20|%20Lateral%20|%20Longitudinal%20-blue?style=for-the-badge&labelColor=black) &nbsp;
+![Path Planning](https://img.shields.io/badge/Path%20Planning-SLAM%20|%20Localization%20|%20Navigation-yellow?style=for-the-badge&labelColor=black) &nbsp;
+![Sensor Fusion](https://img.shields.io/badge/Sensor%20Fusion-IMU/INS%20|%20LiDAR%20|%20GPS%20RTK-orange?style=for-the-badge&labelColor=black) &nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=white) &nbsp;
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Camera%20Calibration-red?style=for-the-badge&labelColor=black) &nbsp;
+![ADAS](https://img.shields.io/badge/ADAS-BSD%20|%20RCW-green?style=for-the-badge&labelColor=black) &nbsp;
 ---
 
 ### 🔌 Embedded & Hardware
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&labelColor=black&logo=stmicroelectronics&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&labelColor=black&logo=stmicroelectronics&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&labelColor=black&logo=espressif&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white)
-![BeagleBone](https://img.shields.io/badge/BeagleBone%20AI--64-FF6600?style=for-the-badge&labelColor=black&logo=beaglebone&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=white) &nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&labelColor=black&logo=espressif&logoColor=white) &nbsp;
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&labelColor=black&logo=nvidia&logoColor=white) &nbsp;
+![BeagleBone](https://img.shields.io/badge/BeagleBone%20AI--64-FF6600?style=for-the-badge&labelColor=black&logo=beaglebone&logoColor=white) &nbsp;
 
 ---
 
 ### 🛠️ Tools & Design
-![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&labelColor=black&logo=dassaultsystemes&logoColor=white)
-![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&labelColor=black&logo=ansys&logoColor=black)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white)
-![Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FC7303?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&labelColor=black&logo=dassaultsystemes&logoColor=white) &nbsp;
+![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&labelColor=black&logo=ansys&logoColor=black) &nbsp;
+![AutoCAD](https://img.shields.io/badge/AutoCAD-CC0000?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white) &nbsp;
+![Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FC7303?style=for-the-badge&labelColor=black&logo=autodesk&logoColor=white) &nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white) &nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white) &nbsp;
 
 
 <!-- GitHub Stats Section -->
